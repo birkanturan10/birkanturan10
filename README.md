@@ -1,7 +1,8 @@
 # 💫 Hakkımda/About Me:
-   2022 yılında Matematik bölümünden mezun oldum.<br>Daha sonra yazılıma yönelmeye karar verdim ve .NET üzerine<br>eğitim almaya başladım. Kendini geliştirmeyi çok seven,<br>insanlarla iletişimi iyi birisiyim.
+   Merhaba, ben Birkan. Matematik bölümünden mezun oldum ve şu anda .NET üzerine eğitim almaktayım. Kendimi geliştirerek ve pratik yaparak C#, HTML, CSS, JavaScript, Bootstrap ve MSSQL Server gibi teknolojileri başarıyla öğrendim. Matematik eğitimim, analitik
+düşünme becerilerimi güçlendirdi ve problem çözme yeteneğimde derinlik kazandırdı. Bu yeteneklerimi yazılım geliştirme alanında kullanmak için kendimi sürekli olarak geliştirmeye ve yeni teknolojileri öğrenmeye odaklanıyorum.
    
-   I graduated from the department of Maths in 2022. Then i decided to focus on software and started training on .NET. I like to improve myself and i have a good comminucation with everyone. 
+   Hello, I'm Birkan. I graduated from the Mathematics department and I am currently pursuing training in .NET. Through self-improvement and hands-on practice, I have acquired proficiency in technologies such as C#, HTML, CSS, JavaScript, Bootstrap, and MSSQL Server. My mathematics education has strengthened my analytical thinking skills and provided me with a depth of problem-solving abilities. I am dedicated to utilizing these skills in the field of software development by continuously enhancing my knowledge and learning new technologies. 
    
    Kişisel web sitem/ My personal website: birkanturan.com.tr
 
