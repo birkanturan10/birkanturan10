@@ -19,7 +19,7 @@
 ###
 
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=birkanturan10.birkanturan10&left_text=Ziyaretçiler/Visitors"  />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=birkanturan10.birkanturan10&left_text=Ziyaretciler/Visitors"  />
 </div>
 
 ###
