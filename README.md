@@ -10,7 +10,7 @@ Merhaba, ben Birkan. Matematik bölümünden mezun oldum ve daha sonra .NET üze
 # 📊 GitHub İstatistiklerim/ GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=birkanturan10&theme=default&hide_border=true&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=birkanturan10&theme=default&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=birkanturan10&theme=default&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+
 
 ## 🏆 GitHub Kupalarım/ GitHub Trophies:
 ![](https://github-profile-trophy.vercel.app/?username=birkanturan10&theme=flat&no-frame=true&no-bg=true&margin-w=4)
