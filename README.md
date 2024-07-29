@@ -1,5 +1,5 @@
 # 💫 Hakkımda/ About Me:
-Merhaba, ben Birkan. Matematik bölümü mezunu olarak analitik düşünme yeteneğimi geliştirdim ve üniversite sonrası .NET teknolojileri üzerine yazılım eğitimi aldım. Bu süreçte yazılım geliştirme, problem çözme ve proje yönetimi konularında kendimi geliştirdim. Yalnızca yazılım alanında değil, farklı masa başı işlerde de kendime güveniyorum ve çeşitli pozisyonlarda yetkinliklerimi kullanabileceğime inanıyorum. Dinamik ve öğrenmeye açık bir yaklaşımla, ekip çalışmasına uyumlu ve sorumluluk sahibi bir profesyonel olarak katkı sağlayabileceğim bir iş arıyorum.
+Merhaba, ben Birkan. Matematik bölümü mezunu olarak analitik düşünme yeteneğimi geliştirdim ve üniversite sonrası .NET teknolojileri üzerine yazılım eğitimi aldım. Bu süreçte yazılım geliştirme, problem çözme ve proje yönetimi konularında kendimi geliştirdim. Yalnızca yazılım alanında değil, niteliklerime uygun farklı departmanlarda da kendime güveniyorum ve çeşitli pozisyonlarda yetkinliklerimi kullanabileceğime inanıyorum. Dinamik ve öğrenmeye açık bir yaklaşımla, ekip çalışmasına uyumlu ve sorumluluk sahibi bir profesyonel olarak katkı sağlayabileceğim bir iş arıyorum.
 
 
 ## 🌐 Sosyal Medya/ Social Media:
