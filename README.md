@@ -9,7 +9,7 @@ Yazılım geliştirme alanında kendimi sürekli geliştirerek kurumsal projeler
 - 💻 C#, ASP.NET MVC
 - 🖥️ HTML, CSS, Bootstrap
 - 🗄️ MSSQL Server
-- 📊 MS Excel (İleri Seviye)
+- 📊 MS Excel 
 - 📈 Temel Python ve JavaScript
 - 🧠 Git ve GitHub
 
